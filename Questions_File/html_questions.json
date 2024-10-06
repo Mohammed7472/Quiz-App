@@ -1,0 +1,207 @@
+[
+  {
+    "title": "What does HTML stand for?",
+    "answers": [
+      "Hyper Text Markup Language",
+      "High Text Markup Language",
+      "Hyperlinks and Text Markup Language",
+      "Hyper Text Machine Language"
+    ],
+    "rightAnswer": "Hyper Text Markup Language"
+  },
+  {
+    "title": "Which of the following is a valid HTML element?",
+    "answers": ["<div>", "<span>", "<header>", "<all of the above>"],
+    "rightAnswer": "<all of the above>"
+  },
+  {
+    "title": "What is the correct HTML element for inserting a line break?",
+    "answers": ["<break>", "<br>", "<lb>", "<linebreak>"],
+    "rightAnswer": "<br>"
+  },
+  {
+    "title": "Which tag is used to define an unordered list?",
+    "answers": ["<ol>", "<ul>", "<list>", "<dl>"],
+    "rightAnswer": "<ul>"
+  },
+  {
+    "title": "What attribute is used to provide a unique identifier for an HTML element?",
+    "answers": ["class", "id", "name", "type"],
+    "rightAnswer": "id"
+  },
+  {
+    "title": "Which HTML element is used to define the title of a document?",
+    "answers": ["<head>", "<title>", "<meta>", "<header>"],
+    "rightAnswer": "<title>"
+  },
+  {
+    "title": "What is the purpose of the  &lt;meta&gt; tag?",
+    "answers": [
+      "To link CSS styles",
+      "To provide metadata about the HTML document",
+      "To define the document's language",
+      "To create a footer"
+    ],
+    "rightAnswer": "To provide metadata about the HTML document"
+  },
+  {
+    "title": "Which of the following elements is a block element?",
+    "answers": ["<span>", "<a>", "<div>", "<img>"],
+    "rightAnswer": "<div>"
+  },
+  {
+    "title": "How can you make a list that lists items with numbers?",
+    "answers": ["<ul>", "<ol>", "<list>", "<dl>"],
+    "rightAnswer": "<ol>"
+  },
+  {
+    "title": "What is the correct way to comment in HTML?",
+    "answers": [
+      "// This is a comment",
+      "<!-- This is a comment -->",
+      "' This is a comment",
+      "// This is a comment //"
+    ],
+    "rightAnswer": "<!-- This is a comment -->"
+  },
+  {
+    "title": "Which attribute is used to specify the URL of an image?",
+    "answers": ["src", "href", "url", "link"],
+    "rightAnswer": "src"
+  },
+  {
+    "title": "Which HTML element is used for inserting an image?",
+    "answers": ["<img>", "<image>", "<src>", "<picture>"],
+    "rightAnswer": "<img>"
+  },
+  {
+    "title": "What does the &lt;iframe&gt; tag do?",
+    "answers": [
+      "Defines a section of a webpage",
+      "Displays a video",
+      "Creates an inline frame",
+      "Inserts a form"
+    ],
+    "rightAnswer": "Creates an inline frame"
+  },
+  {
+    "title": "Which tag is used to define a footer for a document or section?",
+    "answers": ["<footer>", "<bottom>", "<section>", "<div>"],
+    "rightAnswer": "<footer>"
+  },
+  {
+    "title": "Which element is used to define a navigation bar?",
+    "answers": ["<nav>", "<navigation>", "<menu>", "<link>"],
+    "rightAnswer": "<nav>"
+  },
+  {
+    "title": "What do the &lt;h1&gt; to &lt;h6&gt; tags represent?",
+    "answers": ["Headings", "Paragraphs", "Images", "Links"],
+    "rightAnswer": "Headings"
+  },
+  {
+    "title": "How do you create a hyperlink in HTML?",
+    "answers": [
+      "<a href='url'>link</a>",
+      "<link href='url'>link</link>",
+      "<hyperlink url='url'>link</hyperlink>",
+      "<a link='url'>link</a>"
+    ],
+    "rightAnswer": "<a href='url'>link</a>"
+  },
+  {
+    "title": "Which tag is used to define an ordered list?",
+    "answers": ["<ul>", "<ol>", "<list>", "<dl>"],
+    "rightAnswer": "<ol>"
+  },
+  {
+    "title": "What is the correct HTML for creating a checkbox?",
+    "answers": [
+      "<input type='checkbox'>",
+      "<checkbox>",
+      "<input type='check'>",
+      "<check>"
+    ],
+    "rightAnswer": "<input type='checkbox'>"
+  },
+  {
+    "title": "Which HTML element defines the character encoding for an HTML document?",
+    "answers": [
+      "<meta charset='UTF-8'>",
+      "<meta encoding='UTF-8'>",
+      "<meta http-equiv='Content-Type'>",
+      "<meta name='charset'>"
+    ],
+    "rightAnswer": "<meta charset='UTF-8'>"
+  },
+  {
+    "title": "Which element is used to create a dropdown list?",
+    "answers": ["<input>", "<select>", "<dropdown>", "<list>"],
+    "rightAnswer": "<select>"
+  },
+  {
+    "title": "What is the purpose of the &lt;link&gt; tag in HTML?",
+    "answers": [
+      "To create hyperlinks",
+      "To link external stylesheets",
+      "To embed images",
+      "To define scripts"
+    ],
+    "rightAnswer": "To link external stylesheets"
+  },
+  {
+    "title": "How can you open a link in a new tab?",
+    "answers": [
+      "<a href='url' target='_blank'>link</a>",
+      "<a href='url' new='true'>link</a>",
+      "<a href='url' target='new'>link</a>",
+      "<a href='url' open='new'>link</a>"
+    ],
+    "rightAnswer": "<a href='url' target='_blank'>link</a>"
+  },
+  {
+    "title": "Which attribute is required for the &lt;img&gt; tag?",
+    "answers": ["src", "href", "alt", "link"],
+    "rightAnswer": "src"
+  },
+  {
+    "title": "What is the purpose of the &lt;script&gt; tag?",
+    "answers": [
+      "To link CSS stylesheets",
+      "To define scripts",
+      "To create comments",
+      "To embed images"
+    ],
+    "rightAnswer": "To define scripts"
+  },
+  {
+    "title": "Which HTML tag is used to define a text area?",
+    "answers": ["<textarea>", "<input>", "<text>", "<area>"],
+    "rightAnswer": "<textarea>"
+  },
+  {
+    "title": "What does the <head> section of an HTML document contain?",
+    "answers": [
+      "Metadata and links to scripts and styles",
+      "The visible content of the webpage",
+      "The footer information",
+      "Navigation links"
+    ],
+    "rightAnswer": "Metadata and links to scripts and styles"
+  },
+  {
+    "title": "Which element is used to define an input field?",
+    "answers": ["<input>", "<textfield>", "<field>", "<text>"],
+    "rightAnswer": "<input>"
+  },
+  {
+    "title": "What is the correct way to create a comment in HTML?",
+    "answers": [
+      "<!-- This is a comment -->",
+      "// This is a comment",
+      "' This is a comment",
+      "/* This is a comment */"
+    ],
+    "rightAnswer": "<!-- This is a comment -->"
+  }
+]

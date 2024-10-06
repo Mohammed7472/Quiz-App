@@ -1,0 +1,227 @@
+[
+  {
+    "title": "What is the correct syntax to create a function in JavaScript?",
+    "answers": [
+      "function myFunction()",
+      "function:myFunction()",
+      "create myFunction()",
+      "myFunction() = function"
+    ],
+    "rightAnswer": "function myFunction()"
+  },
+  {
+    "title": "Which of the following is a way to declare a variable in JavaScript?",
+    "answers": ["var", "let", "const", "All of the above"],
+    "rightAnswer": "All of the above"
+  },
+  {
+    "title": "What is the output of 'typeof null'?",
+    "answers": ["'null'", "'object'", "'undefined'", "'number'"],
+    "rightAnswer": "'object'"
+  },
+  {
+    "title": "Which method is used to parse a JSON string?",
+    "answers": [
+      "JSON.parse()",
+      "JSON.stringify()",
+      "JSON.convert()",
+      "JSON.decode()"
+    ],
+    "rightAnswer": "JSON.parse()"
+  },
+  {
+    "title": "How do you create an array in JavaScript?",
+    "answers": ["var arr = []", "var arr = ()", "var arr = {}", "var arr = <>"],
+    "rightAnswer": "var arr = []"
+  },
+  {
+    "title": "What does 'DOM' stand for?",
+    "answers": [
+      "Document Object Model",
+      "Data Object Model",
+      "Document Orientation Model",
+      "Data Orientation Model"
+    ],
+    "rightAnswer": "Document Object Model"
+  },
+  {
+    "title": "Which event occurs when the user clicks on an HTML element?",
+    "answers": ["onchange", "onclick", "onmouseover", "onfocus"],
+    "rightAnswer": "onclick"
+  },
+  {
+    "title": "How can you add a comment in JavaScript?",
+    "answers": [
+      "// This is a comment",
+      "<!-- This is a comment -->",
+      "' This is a comment",
+      "/* This is a comment */"
+    ],
+    "rightAnswer": "// This is a comment"
+  },
+  {
+    "title": "What is the purpose of the 'this' keyword in JavaScript?",
+    "answers": [
+      "Refers to the global object",
+      "Refers to the current function",
+      "Refers to the current object",
+      "Refers to the parent object"
+    ],
+    "rightAnswer": "Refers to the current object"
+  },
+  {
+    "title": "Which of the following is used to declare an asynchronous function?",
+    "answers": [
+      "async function myFunction()",
+      "function async myFunction()",
+      "myFunction() async",
+      "function myFunction(async)"
+    ],
+    "rightAnswer": "async function myFunction()"
+  },
+  {
+    "title": "What does 'NaN' stand for?",
+    "answers": [
+      "Not a Number",
+      "Number and Number",
+      "Null and Null",
+      "Not a Numeric"
+    ],
+    "rightAnswer": "Not a Number"
+  },
+  {
+    "title": "Which operator is used to assign a value to a variable?",
+    "answers": ["=", "==", "===", ":="],
+    "rightAnswer": "="
+  },
+  {
+    "title": "What will be the output of the following code: console.log(0.1 + 0.2 === 0.3)?",
+    "answers": ["true", "false", "undefined", "null"],
+    "rightAnswer": "false"
+  },
+  {
+    "title": "Which method can be used to remove the last element from an array?",
+    "answers": ["pop()", "shift()", "slice()", "remove()"],
+    "rightAnswer": "pop()"
+  },
+  {
+    "title": "Which keyword is used to create a class in JavaScript?",
+    "answers": ["class", "function", "struct", "object"],
+    "rightAnswer": "class"
+  },
+  {
+    "title": "How do you call a function named 'myFunction'?",
+    "answers": [
+      "call myFunction()",
+      "myFunction()",
+      "call function myFunction()",
+      "execute myFunction()"
+    ],
+    "rightAnswer": "myFunction()"
+  },
+  {
+    "title": "Which of the following is a correct way to create an object?",
+    "answers": [
+      "var obj = {};",
+      "var obj = new Object();",
+      "Both A and B",
+      "var obj = Object.create();"
+    ],
+    "rightAnswer": "Both A and B"
+  },
+  {
+    "title": "What is the correct way to access the first element of an array?",
+    "answers": ["array[0]", "array{0}", "array(0)", "array.0"],
+    "rightAnswer": "array[0]"
+  },
+  {
+    "title": "What will be the output of the following code: console.log(typeof 42)?",
+    "answers": ["'number'", "'string'", "'object'", "'undefined'"],
+    "rightAnswer": "'number'"
+  },
+  {
+    "title": "What is the output of 'console.log(1 + '1')'?",
+    "answers": ["2", "'1'", "'11'", "undefined"],
+    "rightAnswer": "'11'"
+  },
+  {
+    "title": "How can you convert a string to an integer in JavaScript?",
+    "answers": ["parseInt()", "Number()", "Both A and B", "String()"],
+    "rightAnswer": "Both A and B"
+  },
+  {
+    "title": "Which function is used to serialize a JavaScript object into a JSON string?",
+    "answers": [
+      "JSON.parse()",
+      "JSON.stringify()",
+      "JSON.serialize()",
+      "JSON.decode()"
+    ],
+    "rightAnswer": "JSON.stringify()"
+  },
+  {
+    "title": "What is the purpose of the 'break' statement?",
+    "answers": [
+      "To exit a loop",
+      "To skip to the next iteration",
+      "To pause the execution",
+      "To terminate a function"
+    ],
+    "rightAnswer": "To exit a loop"
+  },
+  {
+    "title": "Which of the following methods is used to concatenate two arrays?",
+    "answers": ["concat()", "merge()", "append()", "add()"],
+    "rightAnswer": "concat()"
+  },
+  {
+    "title": "What does the '=== ' operator do?",
+    "answers": [
+      "Compares values and types",
+      "Compares values only",
+      "Checks for reference equality",
+      "Assigns a value"
+    ],
+    "rightAnswer": "Compares values and types"
+  },
+  {
+    "title": "What is a closure in JavaScript?",
+    "answers": [
+      "A function with preserved data",
+      "A way to access variables from an outer function",
+      "Both A and B",
+      "A type of loop"
+    ],
+    "rightAnswer": "Both A and B"
+  },
+  {
+    "title": "What will be the output of the following code: console.log(1 == '1')?",
+    "answers": ["true", "false", "undefined", "null"],
+    "rightAnswer": "true"
+  },
+  {
+    "title": "How do you define a constant variable in JavaScript?",
+    "answers": [
+      "const variableName;",
+      "let variableName;",
+      "var variableName;",
+      "constant variableName;"
+    ],
+    "rightAnswer": "const variableName;"
+  },
+  {
+    "title": "Which of the following is not a primitive data type in JavaScript?",
+    "answers": ["String", "Number", "Object", "Boolean"],
+    "rightAnswer": "Object"
+  },
+  {
+    "title": "What is the use of the 'finally' block in a try-catch statement?",
+    "answers": [
+      "To execute code after try and catch blocks",
+      "To handle errors",
+      "To prevent code execution",
+      "To return a value"
+    ],
+    "rightAnswer": "To execute code after try and catch blocks"
+  }
+]

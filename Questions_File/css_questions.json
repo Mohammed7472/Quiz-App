@@ -1,0 +1,237 @@
+[
+  {
+    "title": "What does CSS stand for?",
+    "answers": [
+      "Computer Style Sheets",
+      "Cascading Style Sheets",
+      "Colorful Style Sheets",
+      "Creative Style Sheets"
+    ],
+    "rightAnswer": "Cascading Style Sheets"
+  },
+  {
+    "title": "Which property is used to change the background color?",
+    "answers": ["color", "bgcolor", "background-color", "background"],
+    "rightAnswer": "background-color"
+  },
+  {
+    "title": "How do you select an element with id 'header'?",
+    "answers": ["#header", ".header", "header", "header#"],
+    "rightAnswer": "#header"
+  },
+  {
+    "title": "Which CSS property controls the text size?",
+    "answers": ["font-size", "text-size", "font-style", "text-font"],
+    "rightAnswer": "font-size"
+  },
+  {
+    "title": "What is the correct CSS syntax to make all <p> elements bold?",
+    "answers": [
+      "p { font-weight: bold; }",
+      "p { font: bold; }",
+      "<p style='font-weight:bold;'>",
+      "p { text-weight: bold; }"
+    ],
+    "rightAnswer": "p { font-weight: bold; }"
+  },
+  {
+    "title": "Which property is used to change the font of an element?",
+    "answers": ["font-family", "font-type", "font-style", "text-font"],
+    "rightAnswer": "font-family"
+  },
+  {
+    "title": "What is the default value of the 'position' property?",
+    "answers": ["absolute", "relative", "fixed", "static"],
+    "rightAnswer": "static"
+  },
+  {
+    "title": "How do you apply a style to all <h1> elements?",
+    "answers": ["h1 { }", "h1 { style: }", "select h1 { }", "h1: { }"],
+    "rightAnswer": "h1 { }"
+  },
+  {
+    "title": "Which of the following is a valid way to include CSS in an HTML document?",
+    "answers": [
+      "<link rel='stylesheet' href='styles.css'>",
+      "<style>...</style>",
+      "Both A and B",
+      "<css>...</css>"
+    ],
+    "rightAnswer": "Both A and B"
+  },
+  {
+    "title": "What does the z-index property do?",
+    "answers": [
+      "Controls the vertical positioning of elements",
+      "Controls the horizontal positioning of elements",
+      "Controls the stacking order of elements",
+      "Controls the opacity of elements"
+    ],
+    "rightAnswer": "Controls the stacking order of elements"
+  },
+  {
+    "title": "Which CSS property is used to change the text color?",
+    "answers": ["text-color", "color", "font-color", "background-color"],
+    "rightAnswer": "color"
+  },
+  {
+    "title": "What is the correct CSS syntax to set the font size to 16px?",
+    "answers": [
+      "font-size: 16px;",
+      "font-size: '16px';",
+      "font: size 16px;",
+      "font-size = 16px;"
+    ],
+    "rightAnswer": "font-size: 16px;"
+  },
+  {
+    "title": "Which of the following is used to create a flexible layout?",
+    "answers": ["Flexbox", "Grid", "Both A and B", "Table"],
+    "rightAnswer": "Both A and B"
+  },
+  {
+    "title": "What property is used to control the text alignment?",
+    "answers": ["text-align", "align", "text-position", "vertical-align"],
+    "rightAnswer": "text-align"
+  },
+  {
+    "title": "How do you make a list that lists items with bullets?",
+    "answers": ["<ul>", "<ol>", "<list>", "<dl>"],
+    "rightAnswer": "<ul>"
+  },
+  {
+    "title": "Which of the following is a CSS selector?",
+    "answers": ["h1", ".class", "#id", "All of the above"],
+    "rightAnswer": "All of the above"
+  },
+  {
+    "title": "What is the purpose of the 'float' property?",
+    "answers": [
+      "To position an element to the left or right",
+      "To create a grid layout",
+      "To align text",
+      "To create a modal"
+    ],
+    "rightAnswer": "To position an element to the left or right"
+  },
+  {
+    "title": "How can you center an element horizontally?",
+    "answers": [
+      "margin: auto;",
+      "text-align: center;",
+      "float: center;",
+      "position: center;"
+    ],
+    "rightAnswer": "margin: auto;"
+  },
+  {
+    "title": "Which property is used to add space between elements?",
+    "answers": ["padding", "margin", "spacing", "border"],
+    "rightAnswer": "margin"
+  },
+  {
+    "title": "What does the 'display' property do?",
+    "answers": [
+      "Specifies the type of rendering box",
+      "Controls visibility",
+      "Controls layout direction",
+      "Sets background color"
+    ],
+    "rightAnswer": "Specifies the type of rendering box"
+  },
+  {
+    "title": "How do you apply a CSS class to an HTML element?",
+    "answers": [
+      "<element class='classname'>",
+      "<element class='classname'>",
+      "<element class='classname'>",
+      "<element class='class'>"
+    ],
+    "rightAnswer": "<element class='classname'>"
+  },
+  {
+    "title": "Which CSS property is used to create rounded corners?",
+    "answers": [
+      "border-radius",
+      "border-corner",
+      "corner-radius",
+      "border-style"
+    ],
+    "rightAnswer": "border-radius"
+  },
+  {
+    "title": "What does the 'opacity' property do?",
+    "answers": [
+      "Controls the transparency of an element",
+      "Controls the color intensity",
+      "Controls the z-index",
+      "Controls the margin"
+    ],
+    "rightAnswer": "Controls the transparency of an element"
+  },
+  {
+    "title": "Which of the following units is relative to the font size of the element?",
+    "answers": ["px", "em", "pt", "cm"],
+    "rightAnswer": "em"
+  },
+  {
+    "title": "What is the purpose of media queries in CSS?",
+    "answers": [
+      "To apply styles based on device characteristics",
+      "To combine multiple stylesheets",
+      "To create animations",
+      "To define custom properties"
+    ],
+    "rightAnswer": "To apply styles based on device characteristics"
+  },
+  {
+    "title": "How do you make an element invisible but still take up space?",
+    "answers": [
+      "display: none;",
+      "visibility: hidden;",
+      "opacity: 0;",
+      "position: absolute;"
+    ],
+    "rightAnswer": "visibility: hidden;"
+  },
+  {
+    "title": "Which CSS property is used to create a shadow effect?",
+    "answers": [
+      "shadow",
+      "box-shadow",
+      "text-shadow",
+      "both box-shadow and text-shadow"
+    ],
+    "rightAnswer": "both box-shadow and text-shadow"
+  },
+  {
+    "title": "What is the correct syntax to link a CSS file in HTML?",
+    "answers": [
+      "<link rel='stylesheet' href='styles.css'>",
+      "<style src='styles.css'>",
+      "<css src='styles.css'>",
+      "<link rel='style' href='styles.css'>"
+    ],
+    "rightAnswer": "<link rel='stylesheet' href='styles.css'>"
+  },
+  {
+    "title": "What is the purpose of the 'overflow' property?",
+    "answers": [
+      "To specify what happens when content overflows its container",
+      "To control text wrapping",
+      "To create space between elements",
+      "To position elements"
+    ],
+    "rightAnswer": "To specify what happens when content overflows its container"
+  },
+  {
+    "title": "How do you apply a hover effect in CSS?",
+    "answers": [
+      "element:hover { }",
+      "element:focus { }",
+      "element:active { }",
+      "element:hover-effect { }"
+    ],
+    "rightAnswer": "element:hover { }"
+  }
+]
